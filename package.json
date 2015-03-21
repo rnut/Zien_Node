@@ -1,0 +1,30 @@
+{
+  "name": "Zien_Node",
+  "version": "1.0.0",
+  "description": "zien node powered by node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rnut/Zien_Node.git"
+  },
+  "keywords": [
+    "zien",
+    "เซียนสเต็ป",
+    "สเต็บ",
+    "บอลสเต็บ",
+    "เต็งแทงบอล",
+    "บอล"
+  ],
+  "author": "Arnut Khummin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnut/Zien_Node/issues"
+  },
+  "homepage": "https://github.com/rnut/Zien_Node",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
