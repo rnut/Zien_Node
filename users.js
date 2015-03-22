@@ -13,11 +13,11 @@ var users = [
     "position": "Former-Shichibukai"
 },
 {
-    "id": 3,
-    "username": "luffy",
-    "name", "Monkey D. Luffy",
-    "position": "Captain"
-},
+        "id": 3,
+        "username": "luffy",
+        "name": "Monkey D. Luffy",
+        "position": "Captain"
+    },
 {
     "id": 4,
     "username": "kuzan",
